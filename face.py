@@ -118,7 +118,7 @@ def masuk():
         jalan("%s • Aldi Bachtiar Rifai"%(H))
         jalan("%s • Najib XD.\n"%(H))
         print("%s ---> Bagi Yang Ingin Memberikan Donasi :"%(P));jeda(1)
-        jalan("%s • Dana  : %s083806858479"%(H,O))
+        jalan("%s • Dana  : %s083177721763"%(H,O))
         jalan("%s • Pulsa : %s081392979518\n"%(H,O))
         jalan("%s • Terimakasih Atas Dukungan Anda : %sAang-XD"%(H,K))
         raw_input('%s[%s!%s] Tekan enter '%(P,H,P));menu()
