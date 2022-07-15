@@ -9,11 +9,10 @@
  $ python2 face.py
 ```
 ##### Contact & Donasi
-```java
+```bash
  • Facebook : Facebook.com/Aang.XD404
  • You Tube : Aang-XD
- • Dana     : 083177721763
- • Vipul    : 081392979518
+ • Donasi   : Https://saweria.co/AangXD
 ```
 ##### Thank you for your support me
 
