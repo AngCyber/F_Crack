@@ -53,8 +53,8 @@ try:
 	#prox= requests.get('https://github.com/AngCyber/MultiBF/blob/main/ASU/SERVER/proxies.txt').text
 	open('Zuck/proxy.txt','w').write(prox)
 except Exception as e:
-	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mGaruk_Peler')
-prox=open('.prox.txt','r').read().splitlines()
+	print('[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mGaruk_Peler')
+#prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
 	a='Mozilla/5.0 (Symbian/3; Series60/'
 	b=random.randrange(1, 9)
